@@ -1,0 +1,12 @@
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\bin\Debug\net6.0-windows\BundleTest.deps.json
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\bin\Debug\net6.0-windows\BundleTest.dll
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\bin\Debug\net6.0-windows\BundleTest.pdb
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.csproj.AssemblyReference.cache
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.AssemblyInfoInputs.cache
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.AssemblyInfo.cs
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.csproj.CoreCompileInputs.cache
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.dll
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\refint\BundleTest.dll
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\BundleTest.pdb
+C:\Users\chembot\Documents\Stride Projects\BundleTest\BundleTest\obj\Debug\net6.0-windows\ref\BundleTest.dll

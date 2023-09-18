@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chembot\\Documents\\Stride Projects\\BundleTest\\BundleTest\\BundleTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chembot\\Documents\\Stride Projects\\BundleTest\\BundleTest\\BundleTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chembot\\Documents\\Stride Projects\\BundleTest\\BundleTest\\BundleTest.csproj",
+        "projectName": "BundleTest",
+        "projectPath": "C:\\Users\\chembot\\Documents\\Stride Projects\\BundleTest\\BundleTest\\BundleTest.csproj",
+        "packagesPath": "C:\\Users\\chembot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chembot\\Documents\\Stride Projects\\BundleTest\\BundleTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\chembot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Stride.Core.Assets.CompilerApp": {
+              "include": "Build, BuildTransitive",
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            },
+            "Stride.Engine": {
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            },
+            "Stride.Navigation": {
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            },
+            "Stride.Particles": {
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            },
+            "Stride.Physics": {
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            },
+            "Stride.UI": {
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            },
+            "Stride.Video": {
+              "target": "Package",
+              "version": "[4.1.0.1898, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
